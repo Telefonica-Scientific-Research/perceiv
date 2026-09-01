@@ -31,6 +31,7 @@
 *.parquet
 *.hdf5
 *.h5
+EEG.csv
 
 # Machine Learning models and weights
 *.h5
