@@ -283,7 +283,8 @@ If you use the PERCEIV dataset in your research, please cite:
   author={Idesis, Sebastian and Bruns, Mireia Masias and Cardona, Angela Lopez and Emami, Parvin and Duraisamy, Saravanakumar and Leiva, Luis A and Arapakis, Ioannis},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2026},
-  publisher={IEEE}
+  publisher={IEEE},
+  doi = {10.1109/TVCG.2026.3721212}
 }
 ```
 
