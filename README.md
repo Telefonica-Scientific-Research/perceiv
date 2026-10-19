@@ -278,18 +278,12 @@ Establish baseline performance for new cognitive load classification algorithms 
 If you use the PERCEIV dataset in your research, please cite:
 
 ```bibtex
-@article{Idesis2026PERCEIV,
-  author    = {Sebastian Idesis and Mireia Masias Bruns and Angela Lopez Cardona and 
-               Parvin Emami and Saravanakumar Duraisamy and Luis A. Leiva and 
-               Ioannis Arapakis},
-  title     = {PERCEIV: A Multimodal Physiological Dataset of Visual Encodings 
-               for Adaptive InfoVis Interfaces},
-  journal   = {[Journal Name]},
-  year      = {2026},
-  volume    = {[Volume]},
-  number    = {[Number]},
-  pages     = {[Pages]},
-  doi       = {[DOI]}
+@article{idesis2026perceiv,
+  title={PERCEIV: A Multimodal Physiological Dataset of Visual Encodings for Adaptive InfoVis Interfaces},
+  author={Idesis, Sebastian and Bruns, Mireia Masias and Cardona, Angela Lopez and Emami, Parvin and Duraisamy, Saravanakumar and Leiva, Luis A and Arapakis, Ioannis},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
